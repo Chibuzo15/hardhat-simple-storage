@@ -13,3 +13,9 @@ npx hardhat node
 node scripts/sample-script.js
 npx hardhat help
 ```
+
+## Localhost
+yarn hardhat node
+
+## solidity coverage
+yarn hardhat coverage
